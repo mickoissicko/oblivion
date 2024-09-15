@@ -1,5 +1,4 @@
 # Oblivion
+@@include[The Constitution of Oblivion](CONSTITUTION.md)
 
-![The Constitution of Oblivion](CONSTITUTION.md)
-
-![The legal code of Oblivion](LAW.md)
+@@include[The legal code of Oblivion](LAW.md)
