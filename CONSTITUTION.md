@@ -164,9 +164,7 @@ Oblivion’s political system is structured as follows:
 
 ---
 
-## **Article VIII
-
-: Education and Employment**
+## **Article VIII:
 
 ### **8.1 Education**:
 1. Education is compulsory for all citizens. Schools must be accessible to everyone, with provisions for free or adjusted pricing for the poor.
