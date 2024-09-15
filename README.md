@@ -1,6 +1,5 @@
 # Oblivion
-[The Constitution of Oblivion](CONSTITUTION.md)
 
-[The legal code of Oblivion](LAW.md)
+* ![The Constitution of Oblivion](CONSTITUTION.md)
 
-<iframe src="LAW.md" width="100%" height="500px"></iframe>
+* ![The legal code of Oblivion](LAW.md)>
