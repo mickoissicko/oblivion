@@ -67,7 +67,7 @@
 5.3. **Banning Specific Items**:
 - **Glass Bottles**: Ownership prohibited.
 - **Obsidian Rocks**: Ownership prohibited.
-- **Nefelite**: Forbidden substances and tools made from Nefelite.
+- **Netherrite**: Forbidden are the substances and tools made from Netherrite or Netherrite itself.
 
 ### **6. Environment and Public Welfare**
 
