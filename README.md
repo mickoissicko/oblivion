@@ -1,4 +1,6 @@
 # Oblivion
-@@include[The Constitution of Oblivion](CONSTITUTION.md)
+[The Constitution of Oblivion](CONSTITUTION.md)
 
-@@include[The legal code of Oblivion](LAW.md)
+[The legal code of Oblivion](LAW.md)
+
+<iframe src="LAW.md" width="100%" height="500px"></iframe>
