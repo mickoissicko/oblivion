@@ -1,13 +1,12 @@
-
 ### **1. Governance and Elections**
 
-1.1. **Drafter**: Elected every 2,000 days. Controls the entire continent of Oblivion. Holds veto power over laws, which can be overridden by 70% of voters.
+1.1. **Drafter**: Elected every 1,000 days. Controls the entire continent of Oblivion. Holds veto power over laws, which can be overridden by 70% of voters.
 
-1.2. **President**: Elected every 1,500 days. Controls a state, including countries and districts within it. Appoints the Drafter if there is a tie in Drafter elections.
+1.2. **President**: Elected every 1,000 days. Controls a state, including countries and districts within it. Appoints the Drafter if there is a tie in Drafter elections.
 
-1.3. **Vice President**: Elected every 2,500 days. Controls countries and districts. Appointed by the Drafter and President.
+1.3. **Vice President**: Elected every 1,500 days. Controls countries and districts. Appointed by the Drafter and President.
 
-1.4. **Vice Drafter**: Elected every 5,000 days. Acts as a secondary Drafter if needed. Appointed by the Drafter if VD votes are tied.
+1.4. **Vice Drafter**: Elected every 1,700 days. Acts as a secondary Drafter if needed. Appointed by the Drafter if VD votes are tied.
 
 1.5. **Constitution Amendments**: Proposed by the Drafter, reviewed and edited by the People, and require 70% approval to be officiated.
 
