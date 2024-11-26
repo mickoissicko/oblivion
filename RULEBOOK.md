@@ -4,11 +4,11 @@ Under articles are subsections represented via arabic numerals (1, 2, 3...).
 
 You can refer to an article and its subsection in the following format:
 
-> I-1.1 states that 'potions of strength' are illegal.
+> I-1.1-e1 states that 'potions of strength' are illegal.
 
 Or you may be more explicit:
 
-> Article I, subsection 1.1 states that 'potions of strength' are illegal.
+> Article I, Subsection 1.1, Exhibit 1 states that 'potions of strength' are illegal.
 
 ---
 
