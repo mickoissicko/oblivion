@@ -1,5 +1,3 @@
 # Oblivion
 
-* ![The Constitution of Oblivion](CONSTITUTION.md)
-
-* ![The legal code of Oblivion](LAW.md)
+ChatGPT wrote everything, I'll review it when I am free and rewrite.
