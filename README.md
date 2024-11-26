@@ -1,3 +1,3 @@
 # Oblivion
 
-ChatGPT wrote everything, I'll review it when I am free and rewrite.
+All the rules can be found here.
