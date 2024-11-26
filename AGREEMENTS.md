@@ -1,5 +1,3 @@
----
-
 **The International and Official Bank of Oblivion**  
 *(IFBO)*  
 
@@ -12,5 +10,3 @@ The supreme office of validation is vested in the personage of the Drafter, whos
 In the discharge of its duties, the IFBO adheres to principles of rectitude and efficiency, serving as the linchpin of order in a world prone to chaos. By its diligent oversight, it ensures that all enterprises of human endeavour proceed under the aegis of fairness and honourable conduct, for the betterment of society and the perpetuation of peaceable relations amongst all parties concerned.  
 
 Thus, let this proclamation stand as a testament to the gravitas and indispensability of the International and Official Bank of Oblivion, guardian of agreements and arbiter of the universal ledger.  
-
----  
