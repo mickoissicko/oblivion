@@ -293,3 +293,11 @@ Or you may be more explicit:
 - Trees must be cut down fully; wholly
 - Trees must be replanted later on
 - If trees are not cut down wholly, then the individual will face serious consequences
+
+# Article X
+
+> Laws and rules regarding seizure (of land or property).
+
+## 10.1 Seizure of building materials
+- Building materials left unattended for over a month in foregin land or unregistered land are subject to seizure by the government unless a no-seizure is filed.
+- A no-seizure (NS) is a temporary permit that lets one keep building materials somewhere for an agreed-upon amount of time.
